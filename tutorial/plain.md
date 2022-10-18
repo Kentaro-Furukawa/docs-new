@@ -314,7 +314,7 @@ export class HomeViewModel extends Observable {
 Next, add the `ListView` component:
 
 ```xml{6-12}
-<!-- app/home-page/home-page.xml -->
+<!-- app/home/home-page.xml -->
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="navigatingTo">
   <ActionBar title="NativeFlix" />
 
